@@ -21,4 +21,4 @@ A comprehensive web-based scholarship portal that connects students with scholar
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://rohits906.github.io/Scholarship-Portal/)
+[View Live Demo](https://scholarship-port.netlify.app/)
